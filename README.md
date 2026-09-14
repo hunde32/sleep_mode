@@ -38,7 +38,7 @@ The firmware is written in bare-metal C (compiled via `avr-gcc`) and directly ma
 3. **Wake-up:** A falling edge on `PD2` triggers the `INT0` vector, waking the CPU. System resumes, triggers the buzzer, and returns to normal operation.
 
 ### Simulation Previews 
-![Wake Up](docs/screenshots/wake_up.jpeg) 
+![Wake Up](docs/screenshots/wake-up.jpeg) 
 
 ---
 
