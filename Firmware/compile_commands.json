@@ -1,0 +1,16 @@
+[
+  {
+    "file": "main.c",
+    "arguments": [
+      "/usr/bin/avr-gcc",
+      "-Wall",
+      "-Os",
+      "-mmcu=atmega328p",
+      "-o",
+      "main.elf",
+      "main.c"
+    ],
+    "directory": "/home/hunde/Documents/low power mode assigment/Firmware",
+    "output": "main.elf"
+  }
+]
